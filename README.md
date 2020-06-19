@@ -5,3 +5,4 @@ Created a text summarizer by extractive summarization using cosine similarity. T
 The sample text used was the following article on Icelandic glaciers: http://www.bbc.com/travel/story/20191212-icelands-newly-extinct-glacier. 
 
 lkj
+k.lkj
